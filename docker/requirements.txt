@@ -17,4 +17,4 @@ seaborn==0.10.0
 tensorboard==2.1.1
 tensorflow==2.0.1
 xgboost==1.0.2
-mlflow==1.7.0
+mlflow==2.2.1
